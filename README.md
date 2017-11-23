@@ -1,5 +1,5 @@
 # Yoshitoma-Nara-Portfolio
-A single page portfolio of Japanese Contemporary Artist "Yoshitoma Nara".
+A single page portfolio of Japanese Contemporary Artist "奈良美智".
 
 ## How to run
 1. Download all the files from this repository.
@@ -14,6 +14,11 @@ The portfolio page can be used to create personal portfolios of your choice. If 
 
 ### Additional Resources
 Here are some tools you will find useful in checking your work.
--[Udacity HTML / CSS Style Guide] (http://udacity.github.io/frontend-nanodegree-styleguide/) 
--[HTML Validator] (https://validator.w3.org/#validate_by_input)
--[CSS Validator] (https://jigsaw.w3.org/css-validator/#validate_by_input)
+ - [Udacity HTML / CSS Style Guide]  
+ - [HTML Validator] 
+ - [CSS Validator] 
+
+
+[Udacity HTML / CSS Style Guide]: <http://udacity.github.io/frontend-nanodegree-styleguide/>
+[HTML Validator]: <https://validator.w3.org/#validate_by_input>
+[CSS Validator]:<https://jigsaw.w3.org/css-validator/#validate_by_input>
